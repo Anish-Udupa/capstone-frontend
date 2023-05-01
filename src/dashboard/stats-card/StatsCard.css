@@ -1,0 +1,7 @@
+#stats-card-container {
+    width: 80%;
+    height: 20vh;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
